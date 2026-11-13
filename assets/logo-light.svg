@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" role="img" aria-label="EventTrellan">
+  <rect x="4" y="14" width="92" height="92" rx="22" fill="#392252"/>
+  <g transform="translate(22 32) scale(1.55)" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 11h24v20H6z"/>
+    <path d="M12 5v11M24 5v11M6 19h24"/>
+    <path d="m13 25 3 3 7-7" stroke-width="2.3"/>
+  </g>
+  <text x="118" y="77" font-family="Georgia, 'Times New Roman', serif" font-size="47" fill="#ffffff">Event<tspan fill="#d9bdf2">Trellan</tspan></text>
+</svg>
