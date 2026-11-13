@@ -1,0 +1,28 @@
+# EventTrellan
+
+> EventTrellan is a per-event launch-asset service: event microsites, coordinated invitations, reminder plans, and promo kits, sold per event. It is operated under Apex Grid Engineering PLLC.
+
+## What EventTrellan does
+- A customer supplies their event facts (name, host, date, time with time zone, venue or online format, description, RSVP instructions) in a single event brief.
+- EventTrellan drafts a mobile-ready event microsite, an invitation set (email + short message version), a reminder plan, and — by tier — a social promo kit and run-of-show template.
+- Nothing publishes without the customer confirming their details: every date, time, place, and detail is shown back to the customer for explicit approval before publication. EventTrellan never invents or silently corrects event facts.
+
+## What EventTrellan is not
+- Not an event planner: no venue booking, staffing, vendor coordination, insurance, or attendance guarantees.
+- Not a ticketing service: it sells no tickets and collects no ticket money.
+- At launch, EventTrellan prepares invitation and reminder materials; the organizer sends them through their own channels.
+
+## Pricing (per event, test pricing)
+- Essentials — $29 per event: publication of one approved event microsite, one invitation set, basic reminder plan.
+- Launch — $79 per event: Essentials plus social promotion copy pack, multiple microsite themes, an additional reminder touch.
+- Signature — $149 per event: Launch plus expanded audience messaging and a custom run-of-show template.
+
+## Founder
+- Jeremy "Chico" Mills — Founder & CEO. Serial entrepreneur · USAF veteran.
+- Jeremy Mills is the founder and owner of 10+ companies, led by Apex Grid Engineering.
+- An Apex Grid Engineering PLLC company. Founder profile: https://apexgrideng.com/about
+- Operations are coordinated on Muse, our AI operations system, directed by Jeremy Mills.
+
+## Contact
+- info@eventtrellan.com
+- https://eventtrellan.com/contact.html

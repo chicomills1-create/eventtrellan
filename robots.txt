@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+
+# Prelaunch build — indexing stays OFF until the approved launch transition
+# removes the noindex (Charter v2, Leg 5 certification split / R8).
+# At launch transition this file becomes Allow: / with the sitemap line below.
+# Sitemap: https://eventtrellan.com/sitemap.xml
