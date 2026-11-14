@@ -19,3 +19,7 @@
 .sample-pv strong{display:block;font-size:19px;margin:5px 0 2px}
 .sample-pv span{font-size:12.5px;color:var(--sub)}
 .sample-pv p{font-size:12.5px;margin:8px 0 0}
+
+.ticket-tags{display:flex;gap:7px;margin-bottom:12px}
+.ticket-tags .tag{border-color:#31213b33;color:#31213b;background:#ffffff80}
+.ticket-note{font-size:10.5px;color:#31213b99;padding-top:8px;font-weight:600}
