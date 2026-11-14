@@ -23,3 +23,4 @@
 .ticket-tags{display:flex;gap:7px;margin-bottom:12px}
 .ticket-tags .tag{border-color:#31213b33;color:#31213b;background:#ffffff80}
 .ticket-note{font-size:10.5px;color:#31213b99;padding-top:8px;font-weight:600}
+@media(max-width:700px){.event .float-a{left:9px;top:auto;bottom:6px}.event .float-b{right:5px;top:auto;bottom:6px}}
