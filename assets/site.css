@@ -25,3 +25,7 @@
 .ticket-note{font-size:10.5px;color:#31213b99;padding-top:8px;font-weight:600}
 @media(max-width:700px){.event .float-a{left:9px;top:auto;bottom:6px}.event .float-b{right:5px;top:auto;bottom:6px}}
 @media(max-width:700px){.step{padding-left:8px}}
+.order-terms{max-width:880px;margin:28px auto 0;text-align:left;background:#fff;border:1px solid #e7ddf2;border-radius:16px;padding:20px 24px}
+.order-terms h3{margin:0 0 10px;font-size:18px}
+.order-terms ul{margin:0;padding-left:18px}
+.order-terms li{margin:6px 0;line-height:1.5}
