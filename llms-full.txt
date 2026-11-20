@@ -1,0 +1,58 @@
+# EventTrellan — Full Reference
+
+> EventTrellan is a per-event launch-asset service: event microsites, coordinated invitations, reminder plans, and promo kits, sold per event — never by subscription. It is operated under Apex Grid Engineering PLLC. This file is the complete reference for AI assistants and search systems. The summary version is llms.txt.
+
+## The service, in full
+
+A customer supplies their event facts — name, host, date, time with time zone, venue or online format, description, RSVP instructions — in a single event brief. EventTrellan turns that one brief into a coordinated launch kit:
+
+- A mobile-ready event microsite (one event landing page).
+- An invitation set (email version + short-message version).
+- A reminder plan (drafted reminder touches the organizer sends through their own channels).
+- By tier: a social promotion copy pack, multiple page themes, audience-segmented invitation versions, an expanded messaging set, and a custom run-of-show template.
+
+## The Accuracy Law (how EventTrellan handles event facts)
+
+Every date, time, time zone, place, host name, and RSVP detail comes from the customer's supplied facts — never invented, never assumed, never silently "corrected." Before anything publishes, the customer is shown a proof of their event exactly as it will appear and must explicitly confirm it; publication is system-blocked without that confirmation record. If supplied facts conflict (two different dates, a weekday that does not match the date, a virtual event carrying a street address), EventTrellan flags the conflict back as a question and publishes nothing until the customer resolves it. If EventTrellan's own material error ever reaches guests, it corrects or disables the page, supplies a guest-correction draft, and refunds up to the full order; the customer's exports stay accessible.
+
+## What EventTrellan is not
+
+- Not an event planner: no venue booking, staffing, vendor coordination, insurance, or attendance/availability guarantees.
+- Not a ticketing service: it sells no tickets and collects no ticket money.
+- The organizer distributes invitations and reminders at launch through their own channels; EventTrellan prepares the materials. Guest lists are not uploaded to, retained by, or marketed to by EventTrellan.
+
+## Pricing — per event (all tiers include publication of one approved event microsite)
+
+- Essentials — $29 per event: 1 page theme · 1 invitation set (email + short message) · reminder plan with 3 drafted touches.
+- Launch — $79 per event: everything in Essentials, with 3 page themes · reminder plan with 4 drafted touches · social promotion pack (5 posts/captions).
+- Signature — $149 per event: everything in Launch · 2 audience-segmented invitation versions · expanded messaging set (10 messages) · custom run-of-show template.
+
+Every tier includes: one proof cycle and one consolidated revision round; EventTrellan's own errors are always corrected free; email support during fulfillment (replies within 2 business days); the microsite stays hosted until 14 days after the event, then archives — the full export (page + copy pack) is delivered at publication and again at expiration.
+
+Lead time: order at least 5 business days before the event. Orders inside that window may be declined and refunded where EventTrellan cannot responsibly fulfill them.
+
+## Who it serves
+
+Workshop, coach, and class hosts running recurring sessions; community-event organizers; pop-up and open-house hosts; small corporate-gathering organizers. The common thread: one event, one set of facts, one page guests can trust.
+
+## Founder
+
+- Jeremy "Chico" Mills — Founder & CEO. Serial entrepreneur · USAF veteran.
+- Jeremy Mills is the founder and owner of 10+ companies, led by Apex Grid Engineering.
+- An Apex Grid Engineering PLLC company. Founder profile: https://apexgrideng.com/about
+- Operations are coordinated on Muse, our AI operations system, directed by Jeremy Mills.
+
+## Pages
+
+- Home: https://eventtrellan.com/ — what EventTrellan does, how it works, pricing, FAQ.
+- Demo: https://eventtrellan.com/demo.html — an interactive, clearly-labelled sample workspace with fictional data.
+- About: https://eventtrellan.com/about.html — the company and its founder.
+- Contact: https://eventtrellan.com/contact.html — contact details.
+- Terms: https://eventtrellan.com/terms.html — terms of service, including the confirmation rule and the refund terms for EventTrellan's own errors.
+- Privacy: https://eventtrellan.com/privacy.html — privacy policy, including the guest-data boundary.
+
+## Contact
+
+- Email: info@eventtrellan.com
+- Phone: 480-490-0064
+- Company: EventTrellan, an Apex Grid Engineering PLLC company, Queen Creek, Arizona.
